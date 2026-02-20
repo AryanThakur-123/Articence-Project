@@ -1,0 +1,452 @@
+[
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-19T14:49:42.489663+00:00",
+    "value": 2078.36
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-18T14:49:42.489663+00:00",
+    "value": 189.1
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-17T14:49:42.489663+00:00",
+    "value": 2258.05
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-16T14:49:42.489663+00:00",
+    "value": 6674.74
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-15T14:49:42.489663+00:00",
+    "value": 3630.52
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-14T14:49:42.489663+00:00",
+    "value": 8898.46
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-13T14:49:42.489663+00:00",
+    "value": 7049.54
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-12T14:49:42.489663+00:00",
+    "value": 6840.72
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-11T14:49:42.489663+00:00",
+    "value": 1039.49
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-10T14:49:42.489663+00:00",
+    "value": 9380.71
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-09T14:49:42.489663+00:00",
+    "value": 6853.1
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-08T14:49:42.489663+00:00",
+    "value": 7494.99
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-07T14:49:42.489663+00:00",
+    "value": 8220.72
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-06T14:49:42.489663+00:00",
+    "value": 1193.1
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-05T14:49:42.489663+00:00",
+    "value": 7076.29
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-04T14:49:42.489663+00:00",
+    "value": 7354.47
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-03T14:49:42.489663+00:00",
+    "value": 7830.94
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-02T14:49:42.489663+00:00",
+    "value": 7369.66
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-02-01T14:49:42.489663+00:00",
+    "value": 9640.62
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-31T14:49:42.489663+00:00",
+    "value": 6520.16
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-30T14:49:42.489663+00:00",
+    "value": 9189.9
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-29T14:49:42.489663+00:00",
+    "value": 3151.78
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-28T14:49:42.489663+00:00",
+    "value": 4972.43
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-27T14:49:42.489663+00:00",
+    "value": 3298.91
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-26T14:49:42.489663+00:00",
+    "value": 2435.93
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-25T14:49:42.489663+00:00",
+    "value": 6193.18
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-24T14:49:42.489663+00:00",
+    "value": 9303.43
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-23T14:49:42.489663+00:00",
+    "value": 1606.32
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-22T14:49:42.489663+00:00",
+    "value": 9682.24
+  },
+  {
+    "metric_name": "daily_active_users",
+    "timestamp": "2026-01-21T14:49:42.489663+00:00",
+    "value": 2141.98
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-19T14:49:42.489663+00:00",
+    "value": 5474.03
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-18T14:49:42.489663+00:00",
+    "value": 8933.1
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-17T14:49:42.489663+00:00",
+    "value": 5551.42
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-16T14:49:42.489663+00:00",
+    "value": 8365.84
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-15T14:49:42.489663+00:00",
+    "value": 3035.51
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-14T14:49:42.489663+00:00",
+    "value": 228.81
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-13T14:49:42.489663+00:00",
+    "value": 5111.13
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-12T14:49:42.489663+00:00",
+    "value": 9398.4
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-11T14:49:42.489663+00:00",
+    "value": 8429.26
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-10T14:49:42.489663+00:00",
+    "value": 7240.62
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-09T14:49:42.489663+00:00",
+    "value": 3393.84
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-08T14:49:42.489663+00:00",
+    "value": 1880.21
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-07T14:49:42.489663+00:00",
+    "value": 5667.99
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-06T14:49:42.489663+00:00",
+    "value": 8490.61
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-05T14:49:42.489663+00:00",
+    "value": 9974.61
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-04T14:49:42.489663+00:00",
+    "value": 9007.8
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-03T14:49:42.489663+00:00",
+    "value": 4391.72
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-02T14:49:42.489663+00:00",
+    "value": 4403.88
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-02-01T14:49:42.489663+00:00",
+    "value": 2595.6
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-31T14:49:42.489663+00:00",
+    "value": 4202.17
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-30T14:49:42.489663+00:00",
+    "value": 2371.1
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-29T14:49:42.489663+00:00",
+    "value": 5713.12
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-28T14:49:42.489663+00:00",
+    "value": 1033.31
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-27T14:49:42.489663+00:00",
+    "value": 5099.39
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-26T14:49:42.489663+00:00",
+    "value": 3711.85
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-25T14:49:42.489663+00:00",
+    "value": 7055.85
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-24T14:49:42.489663+00:00",
+    "value": 2615.91
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-23T14:49:42.489663+00:00",
+    "value": 5925.74
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-22T14:49:42.489663+00:00",
+    "value": 7041.19
+  },
+  {
+    "metric_name": "revenue",
+    "timestamp": "2026-01-21T14:49:42.489663+00:00",
+    "value": 5918.58
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-19T14:49:42.489663+00:00",
+    "value": 3859.33
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-18T14:49:42.489663+00:00",
+    "value": 8850.33
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-17T14:49:42.489663+00:00",
+    "value": 114.13
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-16T14:49:42.489663+00:00",
+    "value": 5537.08
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-15T14:49:42.489663+00:00",
+    "value": 768.0
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-14T14:49:42.489663+00:00",
+    "value": 5133.69
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-13T14:49:42.489663+00:00",
+    "value": 3559.34
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-12T14:49:42.489663+00:00",
+    "value": 4884.66
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-11T14:49:42.489663+00:00",
+    "value": 6355.86
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-10T14:49:42.489663+00:00",
+    "value": 4222.59
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-09T14:49:42.489663+00:00",
+    "value": 4724.51
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-08T14:49:42.489663+00:00",
+    "value": 2718.23
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-07T14:49:42.489663+00:00",
+    "value": 8718.39
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-06T14:49:42.489663+00:00",
+    "value": 5259.42
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-05T14:49:42.489663+00:00",
+    "value": 225.92
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-04T14:49:42.489663+00:00",
+    "value": 8989.46
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-03T14:49:42.489663+00:00",
+    "value": 5868.1
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-02T14:49:42.489663+00:00",
+    "value": 8084.09
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-02-01T14:49:42.489663+00:00",
+    "value": 4551.15
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-31T14:49:42.489663+00:00",
+    "value": 9567.71
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-30T14:49:42.489663+00:00",
+    "value": 4233.5
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-29T14:49:42.489663+00:00",
+    "value": 8578.53
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-28T14:49:42.489663+00:00",
+    "value": 9520.47
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-27T14:49:42.489663+00:00",
+    "value": 8420.2
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-26T14:49:42.489663+00:00",
+    "value": 1374.89
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-25T14:49:42.489663+00:00",
+    "value": 7274.4
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-24T14:49:42.489663+00:00",
+    "value": 632.13
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-23T14:49:42.489663+00:00",
+    "value": 3719.71
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-22T14:49:42.489663+00:00",
+    "value": 397.81
+  },
+  {
+    "metric_name": "new_signups",
+    "timestamp": "2026-01-21T14:49:42.489663+00:00",
+    "value": 9640.96
+  }
+]

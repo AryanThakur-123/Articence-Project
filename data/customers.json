@@ -1,0 +1,502 @@
+[
+  {
+    "id": "62ffccb5-6965-4961-99fc-8c303c324deb",
+    "name": "Customer_8186",
+    "email": "user962@example.com",
+    "company": "Umbrella",
+    "status": "churned",
+    "lifetime_value": 9558.17,
+    "created_at": "2024-03-09T14:49:42.487620+00:00",
+    "last_activity_at": "2024-03-10T14:49:42.487620+00:00"
+  },
+  {
+    "id": "d75013fb-3a0d-45c2-b085-9a85c39345dd",
+    "name": "Customer_6218",
+    "email": "user992@example.com",
+    "company": "Globex",
+    "status": "inactive",
+    "lifetime_value": 6658.23,
+    "created_at": "2023-08-27T14:49:42.487620+00:00",
+    "last_activity_at": "2024-04-22T14:49:42.487620+00:00"
+  },
+  {
+    "id": "cae21999-535e-4e37-9fcc-03d6a7764f3d",
+    "name": "Customer_2957",
+    "email": "user803@example.com",
+    "company": "Wayne Enterprises",
+    "status": "active",
+    "lifetime_value": 14763.06,
+    "created_at": "2026-01-04T14:49:42.487620+00:00",
+    "last_activity_at": "2026-03-14T14:49:42.487620+00:00"
+  },
+  {
+    "id": "f6cac85b-0d42-4c33-95b4-3d10fedfd20b",
+    "name": "Customer_3823",
+    "email": "user194@example.com",
+    "company": "Wayne Enterprises",
+    "status": "active",
+    "lifetime_value": 8968.35,
+    "created_at": "2024-08-30T14:49:42.488580+00:00",
+    "last_activity_at": "2024-09-10T14:49:42.488580+00:00"
+  },
+  {
+    "id": "a758b34a-2dae-457f-a94f-d3a312491485",
+    "name": "Customer_2220",
+    "email": "user921@example.com",
+    "company": "Wayne Enterprises",
+    "status": "churned",
+    "lifetime_value": 12006.76,
+    "created_at": "2024-03-03T14:49:42.488580+00:00",
+    "last_activity_at": "2024-09-11T14:49:42.488580+00:00"
+  },
+  {
+    "id": "bc1a6b13-a9d1-4901-8b5c-8b1e9e09f646",
+    "name": "Customer_3709",
+    "email": "user287@example.com",
+    "company": "Globex",
+    "status": "inactive",
+    "lifetime_value": 1198.16,
+    "created_at": "2025-03-26T14:49:42.488580+00:00",
+    "last_activity_at": "2025-10-24T14:49:42.488580+00:00"
+  },
+  {
+    "id": "b12ec6f9-6b79-45f2-a288-8253a9617b4f",
+    "name": "Customer_1574",
+    "email": "user666@example.com",
+    "company": "Globex",
+    "status": "churned",
+    "lifetime_value": 7273.83,
+    "created_at": "2025-08-11T14:49:42.488580+00:00",
+    "last_activity_at": "2026-07-31T14:49:42.488580+00:00"
+  },
+  {
+    "id": "0cacf902-2e06-42d4-8b4c-8186b5ecf404",
+    "name": "Customer_9489",
+    "email": "user428@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "lifetime_value": 4818.82,
+    "created_at": "2025-11-02T14:49:42.488580+00:00",
+    "last_activity_at": "2026-01-18T14:49:42.488580+00:00"
+  },
+  {
+    "id": "ee9508bd-6ef1-43a9-8c7c-74fbe4555566",
+    "name": "Customer_5002",
+    "email": "user488@example.com",
+    "company": "Umbrella",
+    "status": "churned",
+    "lifetime_value": 1085.35,
+    "created_at": "2024-08-21T14:49:42.488580+00:00",
+    "last_activity_at": "2024-12-17T14:49:42.488580+00:00"
+  },
+  {
+    "id": "0dba1fd2-bbbc-486c-ac03-58fbc062fdf8",
+    "name": "Customer_6373",
+    "email": "user162@example.com",
+    "company": "Wayne Enterprises",
+    "status": "churned",
+    "lifetime_value": 5136.37,
+    "created_at": "2025-08-01T14:49:42.488580+00:00",
+    "last_activity_at": "2026-07-14T14:49:42.488580+00:00"
+  },
+  {
+    "id": "9929441d-b384-412b-a643-9a31b200dc40",
+    "name": "Customer_7563",
+    "email": "user835@example.com",
+    "company": "Umbrella",
+    "status": "inactive",
+    "lifetime_value": 14397.33,
+    "created_at": "2024-05-30T14:49:42.488580+00:00",
+    "last_activity_at": "2025-04-10T14:49:42.488580+00:00"
+  },
+  {
+    "id": "ec0243f2-32ef-430b-8bab-e3ec4e6a1ed4",
+    "name": "Customer_3348",
+    "email": "user777@example.com",
+    "company": "Initech",
+    "status": "active",
+    "lifetime_value": 18305.46,
+    "created_at": "2024-04-14T14:49:42.488580+00:00",
+    "last_activity_at": "2024-08-12T14:49:42.488580+00:00"
+  },
+  {
+    "id": "98042c22-fadd-4549-996c-13c3d15acf85",
+    "name": "Customer_6640",
+    "email": "user383@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "lifetime_value": 5858.05,
+    "created_at": "2024-07-25T14:49:42.488580+00:00",
+    "last_activity_at": "2025-01-17T14:49:42.488580+00:00"
+  },
+  {
+    "id": "c515f390-5dd0-4dfe-82c8-bce2875a9046",
+    "name": "Customer_6588",
+    "email": "user396@example.com",
+    "company": "Acme Corp",
+    "status": "active",
+    "lifetime_value": 9576.72,
+    "created_at": "2023-06-30T14:49:42.488580+00:00",
+    "last_activity_at": "2023-11-16T14:49:42.488580+00:00"
+  },
+  {
+    "id": "7d9403b2-ed55-4f58-af29-9e356cd734d3",
+    "name": "Customer_5858",
+    "email": "user488@example.com",
+    "company": "Initech",
+    "status": "active",
+    "lifetime_value": 10058.0,
+    "created_at": "2023-10-17T14:49:42.488580+00:00",
+    "last_activity_at": "2024-01-23T14:49:42.488580+00:00"
+  },
+  {
+    "id": "a217ad3a-265d-44e8-aa9b-bc3dc075ef21",
+    "name": "Customer_3594",
+    "email": "user404@example.com",
+    "company": "Globex",
+    "status": "inactive",
+    "lifetime_value": 11705.88,
+    "created_at": "2025-02-20T14:49:42.488580+00:00",
+    "last_activity_at": "2025-04-29T14:49:42.488580+00:00"
+  },
+  {
+    "id": "a0805a72-f240-401f-af27-e2bd1c8fa4f0",
+    "name": "Customer_2288",
+    "email": "user585@example.com",
+    "company": "Umbrella",
+    "status": "churned",
+    "lifetime_value": 7633.59,
+    "created_at": "2025-04-14T14:49:42.488580+00:00",
+    "last_activity_at": "2025-05-19T14:49:42.488580+00:00"
+  },
+  {
+    "id": "4df291b2-96f4-44fc-b7c9-3f027b6b6030",
+    "name": "Customer_1414",
+    "email": "user980@example.com",
+    "company": "Initech",
+    "status": "active",
+    "lifetime_value": 17768.34,
+    "created_at": "2024-04-05T14:49:42.488580+00:00",
+    "last_activity_at": "2024-08-09T14:49:42.488580+00:00"
+  },
+  {
+    "id": "1bb14453-261d-44e8-bdee-064f3afd6924",
+    "name": "Customer_8781",
+    "email": "user222@example.com",
+    "company": "Umbrella",
+    "status": "inactive",
+    "lifetime_value": 8663.32,
+    "created_at": "2024-09-06T14:49:42.488580+00:00",
+    "last_activity_at": "2024-09-17T14:49:42.488580+00:00"
+  },
+  {
+    "id": "6e4de46a-4a11-4f6e-b49c-81577b798f9a",
+    "name": "Customer_1676",
+    "email": "user942@example.com",
+    "company": "Wayne Enterprises",
+    "status": "churned",
+    "lifetime_value": 12157.21,
+    "created_at": "2024-08-26T14:49:42.488580+00:00",
+    "last_activity_at": "2025-03-28T14:49:42.488580+00:00"
+  },
+  {
+    "id": "1e901b0c-c186-47bb-9c9e-e7b595642149",
+    "name": "Customer_5514",
+    "email": "user616@example.com",
+    "company": "Globex",
+    "status": "inactive",
+    "lifetime_value": 9090.78,
+    "created_at": "2024-03-20T14:49:42.488580+00:00",
+    "last_activity_at": "2024-11-13T14:49:42.488580+00:00"
+  },
+  {
+    "id": "521b35db-4907-48f4-bac7-740781c9033c",
+    "name": "Customer_5284",
+    "email": "user644@example.com",
+    "company": "Globex",
+    "status": "churned",
+    "lifetime_value": 4976.64,
+    "created_at": "2023-08-29T14:49:42.488580+00:00",
+    "last_activity_at": "2023-11-05T14:49:42.488580+00:00"
+  },
+  {
+    "id": "3e29ce3f-5dc9-4b0a-bdc6-183d52f48f1e",
+    "name": "Customer_1811",
+    "email": "user240@example.com",
+    "company": "Wayne Enterprises",
+    "status": "inactive",
+    "lifetime_value": 3800.1,
+    "created_at": "2025-01-08T14:49:42.488580+00:00",
+    "last_activity_at": "2025-10-29T14:49:42.488580+00:00"
+  },
+  {
+    "id": "71bef632-1139-4ec1-8bd4-c331e7e5c158",
+    "name": "Customer_3159",
+    "email": "user379@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "lifetime_value": 12066.83,
+    "created_at": "2024-01-03T14:49:42.488580+00:00",
+    "last_activity_at": "2024-05-21T14:49:42.488580+00:00"
+  },
+  {
+    "id": "58500960-1331-4636-8456-f6a0384b5365",
+    "name": "Customer_5954",
+    "email": "user617@example.com",
+    "company": "Initech",
+    "status": "inactive",
+    "lifetime_value": 4958.61,
+    "created_at": "2023-05-28T14:49:42.488580+00:00",
+    "last_activity_at": "2024-05-17T14:49:42.488580+00:00"
+  },
+  {
+    "id": "4453090a-e708-413a-9ba7-e2d36a9b5902",
+    "name": "Customer_6840",
+    "email": "user410@example.com",
+    "company": "Wayne Enterprises",
+    "status": "active",
+    "lifetime_value": 2028.79,
+    "created_at": "2024-07-31T14:49:42.488580+00:00",
+    "last_activity_at": "2024-08-03T14:49:42.488580+00:00"
+  },
+  {
+    "id": "9593954f-dc34-43f9-a95e-20ba86295369",
+    "name": "Customer_6952",
+    "email": "user630@example.com",
+    "company": "Globex",
+    "status": "active",
+    "lifetime_value": 16924.68,
+    "created_at": "2025-07-31T14:49:42.488580+00:00",
+    "last_activity_at": "2025-12-16T14:49:42.488580+00:00"
+  },
+  {
+    "id": "3b36ab8e-d2a7-4fee-8993-dabfb641de35",
+    "name": "Customer_3653",
+    "email": "user808@example.com",
+    "company": "Wayne Enterprises",
+    "status": "churned",
+    "lifetime_value": 13842.1,
+    "created_at": "2025-05-12T14:49:42.488580+00:00",
+    "last_activity_at": "2026-02-09T14:49:42.488580+00:00"
+  },
+  {
+    "id": "b86afdf4-deb6-4a02-b0a0-cbb06cb14329",
+    "name": "Customer_9540",
+    "email": "user338@example.com",
+    "company": "Umbrella",
+    "status": "inactive",
+    "lifetime_value": 8777.93,
+    "created_at": "2026-01-02T14:49:42.488580+00:00",
+    "last_activity_at": "2026-09-29T14:49:42.488580+00:00"
+  },
+  {
+    "id": "a799d825-8194-4b2b-afc1-5345e5704245",
+    "name": "Customer_4930",
+    "email": "user362@example.com",
+    "company": "Globex",
+    "status": "churned",
+    "lifetime_value": 3668.52,
+    "created_at": "2024-03-29T14:49:42.488580+00:00",
+    "last_activity_at": "2025-02-09T14:49:42.488580+00:00"
+  },
+  {
+    "id": "6ec3240d-b699-45bd-bfd5-1367bb6840a5",
+    "name": "Customer_3666",
+    "email": "user159@example.com",
+    "company": "Acme Corp",
+    "status": "churned",
+    "lifetime_value": 5790.63,
+    "created_at": "2025-10-01T14:49:42.488580+00:00",
+    "last_activity_at": "2026-07-07T14:49:42.488580+00:00"
+  },
+  {
+    "id": "f73b1965-5f36-40b2-a5bd-c1379d3249ad",
+    "name": "Customer_9478",
+    "email": "user720@example.com",
+    "company": "Globex",
+    "status": "churned",
+    "lifetime_value": 5323.05,
+    "created_at": "2024-03-13T14:49:42.488580+00:00",
+    "last_activity_at": "2024-09-22T14:49:42.488580+00:00"
+  },
+  {
+    "id": "1f78a64c-8ed2-4c78-81c1-1fbf6747f28c",
+    "name": "Customer_1693",
+    "email": "user541@example.com",
+    "company": "Acme Corp",
+    "status": "active",
+    "lifetime_value": 5203.78,
+    "created_at": "2025-06-28T14:49:42.488580+00:00",
+    "last_activity_at": "2025-10-26T14:49:42.488580+00:00"
+  },
+  {
+    "id": "98b2456e-5edf-4013-a050-8fa7791e2630",
+    "name": "Customer_8974",
+    "email": "user979@example.com",
+    "company": "Umbrella",
+    "status": "churned",
+    "lifetime_value": 16518.26,
+    "created_at": "2024-08-19T14:49:42.488580+00:00",
+    "last_activity_at": "2025-05-13T14:49:42.488580+00:00"
+  },
+  {
+    "id": "85bd2319-7900-4318-a534-f8adf7d09195",
+    "name": "Customer_9192",
+    "email": "user981@example.com",
+    "company": "Globex",
+    "status": "active",
+    "lifetime_value": 10141.54,
+    "created_at": "2024-09-10T14:49:42.488580+00:00",
+    "last_activity_at": "2025-02-06T14:49:42.488580+00:00"
+  },
+  {
+    "id": "05354292-5bcb-435e-b614-088b98e74837",
+    "name": "Customer_6732",
+    "email": "user173@example.com",
+    "company": "Acme Corp",
+    "status": "inactive",
+    "lifetime_value": 4286.07,
+    "created_at": "2025-02-23T14:49:42.488580+00:00",
+    "last_activity_at": "2025-03-24T14:49:42.488580+00:00"
+  },
+  {
+    "id": "21aa724b-e0ff-43c8-99e2-1e8f371149ea",
+    "name": "Customer_9158",
+    "email": "user605@example.com",
+    "company": "Wayne Enterprises",
+    "status": "inactive",
+    "lifetime_value": 8877.06,
+    "created_at": "2024-05-29T14:49:42.488580+00:00",
+    "last_activity_at": "2024-11-09T14:49:42.488580+00:00"
+  },
+  {
+    "id": "3ba48598-0e67-4674-aa7a-dec4c458a672",
+    "name": "Customer_5919",
+    "email": "user683@example.com",
+    "company": "Initech",
+    "status": "active",
+    "lifetime_value": 1205.17,
+    "created_at": "2025-06-26T14:49:42.488580+00:00",
+    "last_activity_at": "2025-08-06T14:49:42.488580+00:00"
+  },
+  {
+    "id": "80af757f-7ee0-48ec-942c-4a22f1de102b",
+    "name": "Customer_4195",
+    "email": "user431@example.com",
+    "company": "Globex",
+    "status": "churned",
+    "lifetime_value": 5224.83,
+    "created_at": "2024-11-02T14:49:42.488580+00:00",
+    "last_activity_at": "2025-07-31T14:49:42.488580+00:00"
+  },
+  {
+    "id": "71a386f8-c070-4e12-b8b0-2047e6133c60",
+    "name": "Customer_8501",
+    "email": "user598@example.com",
+    "company": "Globex",
+    "status": "churned",
+    "lifetime_value": 2093.64,
+    "created_at": "2024-09-22T14:49:42.488580+00:00",
+    "last_activity_at": "2025-02-16T14:49:42.488580+00:00"
+  },
+  {
+    "id": "605823a3-0b68-4c5d-a0b4-d18ac978c95e",
+    "name": "Customer_3702",
+    "email": "user108@example.com",
+    "company": "Wayne Enterprises",
+    "status": "churned",
+    "lifetime_value": 10142.9,
+    "created_at": "2023-09-09T14:49:42.488580+00:00",
+    "last_activity_at": "2024-07-27T14:49:42.488580+00:00"
+  },
+  {
+    "id": "e78273ad-7cb0-486d-884a-b1b57b4a9c35",
+    "name": "Customer_6429",
+    "email": "user999@example.com",
+    "company": "Initech",
+    "status": "inactive",
+    "lifetime_value": 584.04,
+    "created_at": "2024-04-18T14:49:42.488580+00:00",
+    "last_activity_at": "2024-06-19T14:49:42.488580+00:00"
+  },
+  {
+    "id": "1e71716e-ea45-4fe8-9373-a607c9817c57",
+    "name": "Customer_3104",
+    "email": "user646@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "lifetime_value": 16596.33,
+    "created_at": "2025-12-26T14:49:42.488580+00:00",
+    "last_activity_at": "2025-12-29T14:49:42.488580+00:00"
+  },
+  {
+    "id": "e5f928bf-01e4-4fc3-9713-cc90dc7f9401",
+    "name": "Customer_6190",
+    "email": "user563@example.com",
+    "company": "Acme Corp",
+    "status": "active",
+    "lifetime_value": 2501.33,
+    "created_at": "2023-11-22T14:49:42.488580+00:00",
+    "last_activity_at": "2024-02-04T14:49:42.488580+00:00"
+  },
+  {
+    "id": "18669604-bdd2-4eb8-ba53-f7a5dac43517",
+    "name": "Customer_7884",
+    "email": "user585@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "lifetime_value": 5807.0,
+    "created_at": "2023-08-19T14:49:42.488580+00:00",
+    "last_activity_at": "2023-08-24T14:49:42.488580+00:00"
+  },
+  {
+    "id": "a08020a3-acf2-4e80-beb7-40b3bd62edc0",
+    "name": "Customer_4905",
+    "email": "user414@example.com",
+    "company": "Umbrella",
+    "status": "churned",
+    "lifetime_value": 11266.74,
+    "created_at": "2024-01-14T14:49:42.488580+00:00",
+    "last_activity_at": "2024-04-02T14:49:42.488580+00:00"
+  },
+  {
+    "id": "eb733f37-75a4-48e1-be4b-f9cd6eafad52",
+    "name": "Customer_7998",
+    "email": "user704@example.com",
+    "company": "Globex",
+    "status": "inactive",
+    "lifetime_value": 14434.3,
+    "created_at": "2024-01-10T14:49:42.488580+00:00",
+    "last_activity_at": "2024-10-19T14:49:42.488580+00:00"
+  },
+  {
+    "id": "dd8d6aa5-0d39-45da-a591-644bfbbde7a3",
+    "name": "Customer_9106",
+    "email": "user646@example.com",
+    "company": "Globex",
+    "status": "churned",
+    "lifetime_value": 15596.73,
+    "created_at": "2024-04-07T14:49:42.488580+00:00",
+    "last_activity_at": "2024-05-10T14:49:42.488580+00:00"
+  },
+  {
+    "id": "e5593eb5-c7bd-453f-aaa4-47b95b61ea26",
+    "name": "Customer_9311",
+    "email": "user422@example.com",
+    "company": "Wayne Enterprises",
+    "status": "inactive",
+    "lifetime_value": 19401.23,
+    "created_at": "2025-07-08T14:49:42.488580+00:00",
+    "last_activity_at": "2026-04-04T14:49:42.488580+00:00"
+  },
+  {
+    "id": "01276283-aa73-4d03-95fb-b1e49059d268",
+    "name": "Customer_8936",
+    "email": "user990@example.com",
+    "company": "Umbrella",
+    "status": "active",
+    "lifetime_value": 13761.1,
+    "created_at": "2024-03-28T14:49:42.488580+00:00",
+    "last_activity_at": "2025-02-04T14:49:42.488580+00:00"
+  }
+]

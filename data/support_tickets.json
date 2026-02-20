@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "e54a7fa8-f41e-42e0-8ebc-e75a7b431205",
+    "customer_id": "1e630b88-d3f0-4aa7-b86b-42edf54735be",
+    "subject": "Issue_1328",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "resolved",
+    "created_at": "2026-01-05T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "075b57e8-ebcd-496d-a6aa-70e7accc8737",
+    "customer_id": "4a7ca68f-bcd4-4541-8fac-5edac07d521e",
+    "subject": "Issue_6895",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "closed",
+    "created_at": "2026-01-26T14:49:42.488580+00:00",
+    "resolved_at": "2026-02-01T14:49:42.488580+00:00"
+  },
+  {
+    "id": "5cca4966-d784-4725-b1ca-673a69a29fc2",
+    "customer_id": "d3b0590a-07ef-4c06-9dfd-57439f85d100",
+    "subject": "Issue_3423",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "resolved",
+    "created_at": "2026-01-04T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-07T14:49:42.488580+00:00"
+  },
+  {
+    "id": "f0b38812-4b98-4d76-91c0-b5222a8c7bfb",
+    "customer_id": "af43d28b-bce8-4391-8a53-794b4c727419",
+    "subject": "Issue_6086",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "open",
+    "created_at": "2026-02-06T14:49:42.488580+00:00",
+    "resolved_at": "2026-02-08T14:49:42.488580+00:00"
+  },
+  {
+    "id": "1f787b84-8e6b-424d-b38b-5b6ff6f3e660",
+    "customer_id": "d98a1abf-8e1e-470f-a0dc-72ceb257e59e",
+    "subject": "Issue_8297",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "in_progress",
+    "created_at": "2026-01-07T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-08T14:49:42.488580+00:00"
+  },
+  {
+    "id": "1666bc8a-bd23-450f-b334-5c0501628a0f",
+    "customer_id": "270b55a7-d149-4fe0-923c-acb0578a49d0",
+    "subject": "Issue_5891",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "in_progress",
+    "created_at": "2026-01-21T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-27T14:49:42.488580+00:00"
+  },
+  {
+    "id": "0ee13f28-09c0-43fa-b88b-843ef2269f78",
+    "customer_id": "af4cfa3d-9a17-4dad-a88e-9c2d8af6c100",
+    "subject": "Issue_6870",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "closed",
+    "created_at": "2026-01-18T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "273401ff-ccbf-4ff4-b891-26dfce814a78",
+    "customer_id": "7e33345b-a8da-41e7-b936-92081e0f3b78",
+    "subject": "Issue_7600",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "resolved",
+    "created_at": "2026-02-16T14:49:42.488580+00:00",
+    "resolved_at": "2026-02-20T14:49:42.488580+00:00"
+  },
+  {
+    "id": "9390be69-d0a4-4e9c-87f4-15430b7ff121",
+    "customer_id": "cf97e6da-7108-4be0-929a-fdcba47a5730",
+    "subject": "Issue_8107",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "resolved",
+    "created_at": "2026-01-20T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "d05a812e-7bd6-4c29-87ec-bf2824798225",
+    "customer_id": "37b4b843-6fbf-4857-8d46-f3b7ea967970",
+    "subject": "Issue_2947",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "closed",
+    "created_at": "2026-02-19T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "6b614802-cab5-4471-8de0-0871f3aef0a3",
+    "customer_id": "38aa77f3-4bc2-42f5-943b-9eba69314c11",
+    "subject": "Issue_4166",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-01-14T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "6baedf6b-60e2-410d-8ef6-d9bae0d20d1e",
+    "customer_id": "5346dd2b-af75-4703-b3b4-8ac9cb5f8299",
+    "subject": "Issue_1452",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "resolved",
+    "created_at": "2025-11-30T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "4a1a8f33-ddf8-4e1e-8bc4-8632c60eaa84",
+    "customer_id": "1bb0e165-987c-4cf7-a57c-f440b9829c97",
+    "subject": "Issue_5260",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2025-11-23T14:49:42.488580+00:00",
+    "resolved_at": "2025-11-27T14:49:42.488580+00:00"
+  },
+  {
+    "id": "e37e90cc-ca29-4d13-96ee-2713095ddfd7",
+    "customer_id": "9d75c3c7-927a-482d-a776-bffa92d3db6e",
+    "subject": "Issue_4331",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2025-12-10T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "ff900e35-1f23-4670-a662-082ff23eb0b6",
+    "customer_id": "b34ba6c7-91e2-4e94-9f17-c146ac33230f",
+    "subject": "Issue_9907",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "open",
+    "created_at": "2026-01-04T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-08T14:49:42.488580+00:00"
+  },
+  {
+    "id": "3acd7f50-583b-4a91-ac24-817759137562",
+    "customer_id": "abf30f65-65fa-4dee-b4d9-6cccef1e6d1b",
+    "subject": "Issue_6344",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "open",
+    "created_at": "2026-02-17T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "20f4cc1c-36cd-4d98-88a7-5ef9a0ce87b1",
+    "customer_id": "0e701d42-21fe-47f1-a1b7-7dadc82a5239",
+    "subject": "Issue_9409",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2025-12-20T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "887db5c1-3c8e-48a9-8532-52dea3d1afd4",
+    "customer_id": "47469dbb-3c95-4e88-b95d-f8f26b839c88",
+    "subject": "Issue_6701",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "in_progress",
+    "created_at": "2025-12-29T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-07T14:49:42.488580+00:00"
+  },
+  {
+    "id": "d24db2e8-a293-4b69-9b0e-41c37d7df966",
+    "customer_id": "6f19bd5b-5f9c-4dcb-9228-60c00a5e8151",
+    "subject": "Issue_8245",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "open",
+    "created_at": "2026-01-09T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-14T14:49:42.488580+00:00"
+  },
+  {
+    "id": "01d770e5-2db7-47ef-8605-7530c74de5ed",
+    "customer_id": "80143bfb-f7ec-4443-80f5-1f64683f78a3",
+    "subject": "Issue_8328",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "open",
+    "created_at": "2026-01-13T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-18T14:49:42.488580+00:00"
+  },
+  {
+    "id": "ead966fb-619d-44cb-8e99-9bbd1bb3261e",
+    "customer_id": "291603b8-3cf6-4774-a84c-a6fc22b0912f",
+    "subject": "Issue_1318",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "in_progress",
+    "created_at": "2026-01-03T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-06T14:49:42.488580+00:00"
+  },
+  {
+    "id": "b09a2a72-9ba3-4a9c-8ad4-da2ebb23f1ee",
+    "customer_id": "c9c431b1-5c56-4c33-b20e-3230a04c6376",
+    "subject": "Issue_2625",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "closed",
+    "created_at": "2025-12-25T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "fd67a670-9e42-4299-ba13-fa3d6db90a0d",
+    "customer_id": "80014a83-dcf6-4d8f-a6dc-256287f3576f",
+    "subject": "Issue_4786",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-01-04T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-14T14:49:42.488580+00:00"
+  },
+  {
+    "id": "4c7f7ab4-3f0c-45a7-bf9f-919369b60e4e",
+    "customer_id": "f11a2685-d697-4623-9ff6-b9c281724822",
+    "subject": "Issue_1037",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "closed",
+    "created_at": "2026-01-02T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "a3e9e212-3fa2-4614-9723-5ac36ee20abf",
+    "customer_id": "45c6e2ba-5ce8-40d3-a039-22e68422406d",
+    "subject": "Issue_3789",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "closed",
+    "created_at": "2025-12-17T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "9e381243-2504-4241-b209-4acd341b1727",
+    "customer_id": "572bca89-9aa7-48a3-9875-fdf4f264e7c2",
+    "subject": "Issue_6863",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "open",
+    "created_at": "2026-02-01T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "14dc5d69-d7b5-4abe-a1af-12f084ca1a3a",
+    "customer_id": "ef59bbf3-bd59-41e9-8e61-6b5b3d1f0b05",
+    "subject": "Issue_5841",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "closed",
+    "created_at": "2025-11-24T14:49:42.488580+00:00",
+    "resolved_at": "2025-12-04T14:49:42.488580+00:00"
+  },
+  {
+    "id": "d3b0172a-870e-44a8-b4ef-46712adcc583",
+    "customer_id": "b4618441-d4f8-45dc-9f5c-39f231126066",
+    "subject": "Issue_1481",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "closed",
+    "created_at": "2025-12-24T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-02T14:49:42.488580+00:00"
+  },
+  {
+    "id": "07c721d4-280a-48ee-8b97-d16cf7178d44",
+    "customer_id": "87b41bac-e7d6-45b6-adad-621cbac16c41",
+    "subject": "Issue_4639",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "open",
+    "created_at": "2025-12-04T14:49:42.488580+00:00",
+    "resolved_at": "2025-12-07T14:49:42.488580+00:00"
+  },
+  {
+    "id": "3c62f617-4a34-4fe5-b28e-88aadb7b6b39",
+    "customer_id": "87de225a-ec61-49cc-860f-5a6c55a6a331",
+    "subject": "Issue_9003",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "open",
+    "created_at": "2026-01-13T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-19T14:49:42.488580+00:00"
+  },
+  {
+    "id": "df722c7a-104e-4de9-9662-28138c6acba1",
+    "customer_id": "7a47b10c-df82-497e-a729-4bc449727422",
+    "subject": "Issue_3360",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-02-08T14:49:42.488580+00:00",
+    "resolved_at": "2026-02-11T14:49:42.488580+00:00"
+  },
+  {
+    "id": "c93073a5-0519-49b2-973c-07d3942a8ed6",
+    "customer_id": "c63e44af-18a2-45bd-822a-de2dbde3d4de",
+    "subject": "Issue_7665",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2026-01-13T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-22T14:49:42.488580+00:00"
+  },
+  {
+    "id": "2849bdeb-0a62-468f-97a5-fd8313056091",
+    "customer_id": "1997d7fa-61e5-4f95-b588-5220581e0f70",
+    "subject": "Issue_3126",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "closed",
+    "created_at": "2026-01-11T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "1fc8db1e-8002-4502-bf5e-0955dfa89912",
+    "customer_id": "dbbe75ba-1b2c-4087-bc72-7195f58e1695",
+    "subject": "Issue_4951",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-02-06T14:49:42.488580+00:00",
+    "resolved_at": "2026-02-14T14:49:42.488580+00:00"
+  },
+  {
+    "id": "21bd082f-28c4-4497-8244-87dbac130fde",
+    "customer_id": "cfc41fc1-6a10-4935-bce8-ee06353fe613",
+    "subject": "Issue_8907",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "closed",
+    "created_at": "2025-11-24T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "c9aa34b7-29b8-4301-bfd8-c4ce23dc10c0",
+    "customer_id": "b80c71a4-931d-4267-8b61-4e0b2658b954",
+    "subject": "Issue_8652",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "closed",
+    "created_at": "2025-12-18T14:49:42.488580+00:00",
+    "resolved_at": "2025-12-23T14:49:42.488580+00:00"
+  },
+  {
+    "id": "7d70ac92-65de-401f-80d0-54e9fc2cf0c6",
+    "customer_id": "50eb43da-f5b9-4bbc-9467-459d17debe21",
+    "subject": "Issue_3337",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "resolved",
+    "created_at": "2026-02-06T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "ab8615a0-5441-45c5-981c-0efe5cd5d7a9",
+    "customer_id": "4484ba06-c242-4933-adb9-59f918733327",
+    "subject": "Issue_2678",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-02-14T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "5a04ee42-fec2-4480-b329-373282f4eed9",
+    "customer_id": "377ca9fe-117d-4a6c-a7f1-04cd7d688347",
+    "subject": "Issue_6882",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "closed",
+    "created_at": "2026-01-10T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "4e8e0832-78ac-48ce-adcf-aff49a3daaec",
+    "customer_id": "fff873e0-b18a-4b34-b6bf-a8eee11869a6",
+    "subject": "Issue_6080",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "in_progress",
+    "created_at": "2025-12-08T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "aeb6e621-3d82-45a0-aa7e-85be45063439",
+    "customer_id": "2556a6a4-98f2-4e03-8c60-96b425fca129",
+    "subject": "Issue_7490",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "closed",
+    "created_at": "2025-12-24T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "9d39c3ee-cf38-4226-845d-66f88aebc7b2",
+    "customer_id": "59fb76d2-103b-44f8-b413-f46010d36c2f",
+    "subject": "Issue_5537",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2025-12-17T14:49:42.488580+00:00",
+    "resolved_at": "2025-12-18T14:49:42.488580+00:00"
+  },
+  {
+    "id": "082aaff5-509a-47aa-a8bb-fe78c09dc3ef",
+    "customer_id": "b36cf471-5c7d-4ea9-bf47-1876208fdc28",
+    "subject": "Issue_3249",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "resolved",
+    "created_at": "2025-12-24T14:49:42.488580+00:00",
+    "resolved_at": "2025-12-26T14:49:42.488580+00:00"
+  },
+  {
+    "id": "fd68f955-efcf-4424-9ad0-2b80ad1491ea",
+    "customer_id": "174f893d-2ef5-4b94-9daa-550001db3517",
+    "subject": "Issue_7390",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2026-01-01T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-10T14:49:42.488580+00:00"
+  },
+  {
+    "id": "b3c8a91f-a708-4e43-9d2f-253a0bbf4e26",
+    "customer_id": "d75abc60-8c39-43f4-921d-9f16f38e3f91",
+    "subject": "Issue_4018",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "closed",
+    "created_at": "2025-12-12T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "2138b908-e1a3-4797-9dbd-75e760584866",
+    "customer_id": "4fd6d240-976c-48c0-ae16-ba3f3dd06ac7",
+    "subject": "Issue_8868",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2025-12-16T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "b9b523a2-ab2c-4b0c-a7a7-5957165d9305",
+    "customer_id": "7ce5652c-61d5-4abe-a3ea-48c6f03968b3",
+    "subject": "Issue_2357",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "closed",
+    "created_at": "2026-02-15T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "1d51308f-f1e0-4774-bc0b-a089123676b8",
+    "customer_id": "52f9d260-6652-480e-9ba0-21cde1bceeaa",
+    "subject": "Issue_5372",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "open",
+    "created_at": "2025-12-08T14:49:42.488580+00:00",
+    "resolved_at": "2025-12-14T14:49:42.488580+00:00"
+  },
+  {
+    "id": "686f5270-0d5e-4942-a5d3-abb8f6f45e1e",
+    "customer_id": "01754c86-cc03-4d4b-bba0-5924d83474d9",
+    "subject": "Issue_5267",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "resolved",
+    "created_at": "2026-01-12T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "4ab68090-7b63-4420-bfae-ace411590e9e",
+    "customer_id": "adb4d3db-8304-48b5-831a-230f831eae09",
+    "subject": "Issue_2706",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "in_progress",
+    "created_at": "2026-01-10T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "8889094b-af95-45f1-9c0d-9006cde2d698",
+    "customer_id": "95426053-1131-44db-a1df-f7be68758401",
+    "subject": "Issue_6805",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "in_progress",
+    "created_at": "2025-12-23T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "3dffa931-f8ea-4e4e-92dc-5c6b58c96242",
+    "customer_id": "fe964b9a-5ccc-4fb5-9ab3-8908fbab33ca",
+    "subject": "Issue_8841",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2026-02-15T14:49:42.488580+00:00",
+    "resolved_at": "2026-02-23T14:49:42.488580+00:00"
+  },
+  {
+    "id": "db373178-479b-41d2-aaa6-efc4e0d2b432",
+    "customer_id": "47aaa20b-4370-4128-8420-97827d16b586",
+    "subject": "Issue_5289",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-01-28T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-30T14:49:42.488580+00:00"
+  },
+  {
+    "id": "24adff38-1881-4ea5-96b9-eb0dea4f4edc",
+    "customer_id": "53ffa748-475a-4539-87ae-a27f786f4ca4",
+    "subject": "Issue_2492",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "in_progress",
+    "created_at": "2025-12-30T14:49:42.488580+00:00",
+    "resolved_at": "2026-01-03T14:49:42.488580+00:00"
+  },
+  {
+    "id": "ea89d0b9-ff88-4523-b526-635b58f293ec",
+    "customer_id": "8cb4087e-1800-49a3-9c0c-cff7bcd7f4a7",
+    "subject": "Issue_6099",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "closed",
+    "created_at": "2026-02-13T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "f2cfe2f1-e7e4-434a-85ed-3f3b522f0c15",
+    "customer_id": "5f1239ee-f4ee-4262-a5eb-45983a57ea63",
+    "subject": "Issue_1266",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "in_progress",
+    "created_at": "2025-12-02T14:49:42.488580+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "de211a7c-cab5-415e-b777-9c8103ebff07",
+    "customer_id": "9f5cb34a-5964-400c-bb22-bc5516accd4b",
+    "subject": "Issue_9575",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "resolved",
+    "created_at": "2025-12-27T14:49:42.488580+00:00",
+    "resolved_at": "2025-12-29T14:49:42.488580+00:00"
+  },
+  {
+    "id": "a613a610-22bb-4c1a-8162-2dfb990764bc",
+    "customer_id": "78966363-b21e-4af2-b655-68e4fc37c3db",
+    "subject": "Issue_2653",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "open",
+    "created_at": "2025-12-31T14:49:42.489663+00:00",
+    "resolved_at": "2026-01-05T14:49:42.489663+00:00"
+  },
+  {
+    "id": "7d2ad793-a635-4c71-842b-94eb051028b2",
+    "customer_id": "5b85512d-d0fa-418e-9212-b2807602e756",
+    "subject": "Issue_1179",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "open",
+    "created_at": "2026-01-15T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "b3b602e0-ec44-4c73-9fb3-21d8669c0c90",
+    "customer_id": "1d7f1f8c-1ca8-4681-ad15-bea2fbed8908",
+    "subject": "Issue_8438",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2025-12-15T14:49:42.489663+00:00",
+    "resolved_at": "2025-12-16T14:49:42.489663+00:00"
+  },
+  {
+    "id": "4455d60a-76b3-4331-945f-b790fb3820d2",
+    "customer_id": "dfcd719d-62ad-4816-83d0-4624c2f11242",
+    "subject": "Issue_5601",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "closed",
+    "created_at": "2026-02-07T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "b0a9f5c5-0eb3-43c6-a0ce-a5a01e1e95f7",
+    "customer_id": "cb458062-e059-4d88-8ddf-3a980bf025f1",
+    "subject": "Issue_1194",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "in_progress",
+    "created_at": "2025-12-15T14:49:42.489663+00:00",
+    "resolved_at": "2025-12-19T14:49:42.489663+00:00"
+  },
+  {
+    "id": "01fbd841-d1a3-407a-95cb-7ebf40dbb9d1",
+    "customer_id": "63cfb2c5-f1da-4ba1-9b07-5f475b425255",
+    "subject": "Issue_6931",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "resolved",
+    "created_at": "2026-01-25T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "f2009156-e546-4a6d-922c-aa3e2f5cf725",
+    "customer_id": "c6488062-a338-4e12-bb55-5775a50da043",
+    "subject": "Issue_6177",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "resolved",
+    "created_at": "2025-12-29T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "52eb15ec-6201-4938-9343-c6a5ad114dc9",
+    "customer_id": "28d141cb-bf0d-4e0b-b6a8-75bc32b6cdc4",
+    "subject": "Issue_3777",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "resolved",
+    "created_at": "2025-11-29T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "0d45fea0-cd3e-4e36-8d3d-7a68b7403ae3",
+    "customer_id": "37d28460-361b-42bd-948e-2db3aa587cf0",
+    "subject": "Issue_5762",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "closed",
+    "created_at": "2025-11-30T14:49:42.489663+00:00",
+    "resolved_at": "2025-12-07T14:49:42.489663+00:00"
+  },
+  {
+    "id": "7cdc39b3-1f2d-4ed0-aa61-c376e32a0408",
+    "customer_id": "f274a09a-95bc-47ef-9eeb-1f9b3e6edc47",
+    "subject": "Issue_9136",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "in_progress",
+    "created_at": "2025-12-08T14:49:42.489663+00:00",
+    "resolved_at": "2025-12-17T14:49:42.489663+00:00"
+  },
+  {
+    "id": "f3cad169-f102-4e4b-9670-f328d559f0fb",
+    "customer_id": "9cc83593-83eb-477a-b548-746432872dfb",
+    "subject": "Issue_3099",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2025-12-05T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "3ef0059e-565c-4969-b97e-df621a30f593",
+    "customer_id": "210f2d20-69e0-4ed1-9531-698bcd1a7037",
+    "subject": "Issue_1920",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "resolved",
+    "created_at": "2025-12-20T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "0c3c13fd-7d1a-44db-9d93-47738a79e3c7",
+    "customer_id": "e0906e39-8305-482e-86f6-b960d72faf6b",
+    "subject": "Issue_8910",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2026-02-13T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "c4a69019-669e-499d-b5db-a7cf6d703695",
+    "customer_id": "b26691ec-3705-44e8-81ed-60f1ff5948fa",
+    "subject": "Issue_9774",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "in_progress",
+    "created_at": "2026-02-17T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "db107051-6f08-4fce-b3c6-6ab89ed88a23",
+    "customer_id": "fd3597de-6576-454d-a230-6ace90990de3",
+    "subject": "Issue_5485",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-01-16T14:49:42.489663+00:00",
+    "resolved_at": "2026-01-25T14:49:42.489663+00:00"
+  },
+  {
+    "id": "9e1b3da4-372c-4002-b612-094407df74e3",
+    "customer_id": "ab68d9c2-1700-499b-993d-20f8cd06f210",
+    "subject": "Issue_9590",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "closed",
+    "created_at": "2026-02-09T14:49:42.489663+00:00",
+    "resolved_at": "2026-02-14T14:49:42.489663+00:00"
+  },
+  {
+    "id": "251b741a-f10c-440e-a2b4-2cda077a34f5",
+    "customer_id": "03543341-6bfc-4166-a18a-69ea75ce5c41",
+    "subject": "Issue_8580",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "resolved",
+    "created_at": "2026-01-03T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "3edda61e-be7e-44ab-ba44-e9d58e4aa89f",
+    "customer_id": "384705dd-0db6-4ae2-a079-16d9511ef5d9",
+    "subject": "Issue_5513",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "resolved",
+    "created_at": "2026-02-18T14:49:42.489663+00:00",
+    "resolved_at": "2026-02-26T14:49:42.489663+00:00"
+  },
+  {
+    "id": "d6412dde-69b4-44a5-bc5d-62dd8e6bdab3",
+    "customer_id": "650e09b3-8e83-4626-8e3f-b97b772fb963",
+    "subject": "Issue_7720",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "closed",
+    "created_at": "2025-12-17T14:49:42.489663+00:00",
+    "resolved_at": "2025-12-25T14:49:42.489663+00:00"
+  },
+  {
+    "id": "8abfa3f4-6601-4866-b903-8bbe20905f30",
+    "customer_id": "60bb0deb-ccfc-458d-a743-aaba34e77dfe",
+    "subject": "Issue_2562",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "closed",
+    "created_at": "2026-02-05T14:49:42.489663+00:00",
+    "resolved_at": "2026-02-08T14:49:42.489663+00:00"
+  },
+  {
+    "id": "a3fd89b4-7270-4bef-88a0-d592c03e05df",
+    "customer_id": "ac106e76-9650-4934-b2c1-196da49ee716",
+    "subject": "Issue_3021",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2025-11-24T14:49:42.489663+00:00",
+    "resolved_at": "2025-11-26T14:49:42.489663+00:00"
+  },
+  {
+    "id": "5cfa6244-7bd5-4edd-92bc-0bd07fc49e71",
+    "customer_id": "d1945395-8c55-4af5-b86f-5c5d1506707f",
+    "subject": "Issue_5527",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2025-11-27T14:49:42.489663+00:00",
+    "resolved_at": "2025-11-29T14:49:42.489663+00:00"
+  },
+  {
+    "id": "34fc0bed-0c95-45f4-bb58-5da23c1f58bb",
+    "customer_id": "ac427730-139f-4901-bb05-bc7e97e38bbc",
+    "subject": "Issue_4391",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "closed",
+    "created_at": "2026-02-01T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "c2839e71-cb01-4e3c-83ff-fb106b221365",
+    "customer_id": "e65e4c28-1238-44fb-8d78-766ab09faca1",
+    "subject": "Issue_3049",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "closed",
+    "created_at": "2025-12-01T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "db0a426d-46b4-4535-bd2d-1655f2810ef8",
+    "customer_id": "7b25a5d2-7b6c-4d6e-b05e-c5f3093098f1",
+    "subject": "Issue_6209",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "closed",
+    "created_at": "2026-01-09T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "f559510b-14e3-4ab8-a48d-9bc916832314",
+    "customer_id": "68b869ee-3457-45fd-8005-26e79da8bcc4",
+    "subject": "Issue_3969",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "open",
+    "created_at": "2026-02-17T14:49:42.489663+00:00",
+    "resolved_at": "2026-02-24T14:49:42.489663+00:00"
+  },
+  {
+    "id": "7b353474-d816-41ec-9359-d6776a2da8cc",
+    "customer_id": "fddb5306-2203-46a0-b514-0dc803d78ef5",
+    "subject": "Issue_9399",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "resolved",
+    "created_at": "2026-01-12T14:49:42.489663+00:00",
+    "resolved_at": "2026-01-20T14:49:42.489663+00:00"
+  },
+  {
+    "id": "53e5008d-3b19-4369-9d4c-ee00833f48e7",
+    "customer_id": "e0a56cd5-2b6f-42a7-954d-656d829a8fc0",
+    "subject": "Issue_7489",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "resolved",
+    "created_at": "2025-11-25T14:49:42.489663+00:00",
+    "resolved_at": "2025-11-26T14:49:42.489663+00:00"
+  },
+  {
+    "id": "97563063-cdc3-4afe-b260-0e57bb387967",
+    "customer_id": "3cb4905c-262a-4890-8559-74e9a0a5ea07",
+    "subject": "Issue_5601",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2026-01-16T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "43ac7241-2e3d-482c-abdc-c319bcc24f98",
+    "customer_id": "b0f39c47-413d-4e2e-b19a-c83be20608d2",
+    "subject": "Issue_1068",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "resolved",
+    "created_at": "2026-01-03T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "678b336b-ede0-41c1-842c-49cabae7b35c",
+    "customer_id": "5699f82d-1624-4811-b4dd-62232d588ae6",
+    "subject": "Issue_1249",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "resolved",
+    "created_at": "2025-12-13T14:49:42.489663+00:00",
+    "resolved_at": "2025-12-15T14:49:42.489663+00:00"
+  },
+  {
+    "id": "9499248b-4b52-417d-82fd-487b24cf9cc3",
+    "customer_id": "657f8ba4-58cc-482a-b191-83faffa818fa",
+    "subject": "Issue_7676",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "resolved",
+    "created_at": "2026-02-12T14:49:42.489663+00:00",
+    "resolved_at": "2026-02-20T14:49:42.489663+00:00"
+  },
+  {
+    "id": "19c6d9b3-2d6c-44b1-942a-b554491eb625",
+    "customer_id": "5e004cde-53cd-44ee-9f4d-8c9e5d14ce96",
+    "subject": "Issue_7203",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "open",
+    "created_at": "2026-01-25T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "43b9f4db-c762-416f-99ad-d737186fce19",
+    "customer_id": "b0301bec-96f6-4781-952c-f9192a8b6748",
+    "subject": "Issue_7184",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "resolved",
+    "created_at": "2025-12-01T14:49:42.489663+00:00",
+    "resolved_at": "2025-12-06T14:49:42.489663+00:00"
+  },
+  {
+    "id": "3134bc3f-069b-4683-9fa8-e737db1ea368",
+    "customer_id": "73c921c7-0057-4af9-8d0b-5e1d8a903dae",
+    "subject": "Issue_6698",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-01-14T14:49:42.489663+00:00",
+    "resolved_at": "2026-01-19T14:49:42.489663+00:00"
+  },
+  {
+    "id": "ff4ccb8c-c7eb-4f6e-9736-43017ebc8237",
+    "customer_id": "a2b27d3a-ee80-4518-8493-29b3a6e0d542",
+    "subject": "Issue_1864",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "in_progress",
+    "created_at": "2025-12-27T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "60c5225a-756b-4c7c-8d19-07f5945fe64c",
+    "customer_id": "8f81e3aa-efc2-422f-9d9e-46d053685da9",
+    "subject": "Issue_4527",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2025-12-27T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "36f6b76f-8e9b-407d-888a-8f9485752642",
+    "customer_id": "8dc8f100-52f5-4773-87e7-b53663df13d4",
+    "subject": "Issue_3405",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "closed",
+    "created_at": "2025-12-04T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "657c2dae-2de5-461d-9194-c05085747dc7",
+    "customer_id": "18015e62-009c-4427-a8cf-5e26ee21bd93",
+    "subject": "Issue_9350",
+    "description": "Auto-generated support ticket.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2025-12-06T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "4f79f0fa-e346-4523-9c6c-d178ccb8a8cd",
+    "customer_id": "92536e0c-7ece-4bb5-aff6-be888d7cb744",
+    "subject": "Issue_4673",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "in_progress",
+    "created_at": "2026-01-05T14:49:42.489663+00:00",
+    "resolved_at": null
+  },
+  {
+    "id": "69116f73-040a-4ec2-93b6-2f97240dd681",
+    "customer_id": "e1fee15d-c5a8-4d70-bb78-e5e9e1616a1e",
+    "subject": "Issue_2886",
+    "description": "Auto-generated support ticket.",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2025-12-01T14:49:42.489663+00:00",
+    "resolved_at": "2025-12-08T14:49:42.489663+00:00"
+  },
+  {
+    "id": "f559f603-5c06-4854-b5a9-1a1fd77fa454",
+    "customer_id": "df74272e-10ae-4eff-89da-1170a51d7c02",
+    "subject": "Issue_7449",
+    "description": "Auto-generated support ticket.",
+    "priority": "critical",
+    "status": "resolved",
+    "created_at": "2026-01-20T14:49:42.489663+00:00",
+    "resolved_at": "2026-01-24T14:49:42.489663+00:00"
+  },
+  {
+    "id": "dbf664e9-14cb-41ad-8c81-202d1e2cf37e",
+    "customer_id": "f5929296-20c3-4c9d-9335-d17dc0a737b8",
+    "subject": "Issue_7526",
+    "description": "Auto-generated support ticket.",
+    "priority": "low",
+    "status": "resolved",
+    "created_at": "2025-12-07T14:49:42.489663+00:00",
+    "resolved_at": null
+  }
+]

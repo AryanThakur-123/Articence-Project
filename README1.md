@@ -2,7 +2,7 @@
 
 A modular, LLM-integrated data access layer that unifies CRM, Support, and Analytics systems into a standardized API interface.
 
-🚀 Features
+## 🚀 Features
 
 Modular connector architecture
 
@@ -18,7 +18,7 @@ Full test coverage
 
 Dockerized deployment
 
-🏗 Architecture Overview
+## 🏗 Architecture Overview
 Client → FastAPI Router → LLM Handler → Connector
                                    ↓
                         Business Rules Engine
@@ -26,7 +26,7 @@ Client → FastAPI Router → LLM Handler → Connector
                          Voice Optimization
                                    ↓
                               Response
-📁 Project Structure
+## 📁 Project Structure
 app/
  ├── connectors/        # CRM, Support, Analytics connectors
  ├── services/          # Business logic + optimization
@@ -54,17 +54,17 @@ uvicorn app.main:app --reload
 Visit:
 
 http://localhost:8000/docs
-🐳 Docker Setup
+## 🐳 Docker Setup
 Build Image
 docker build -t universal-data-connector .
 Run Container
 docker run -p 8000:8000 universal-data-connector
-🧪 Running Tests
+## 🧪 Running Tests
 pytest
 
 All tests should pass.
 
-🔍 Available Endpoints
+## 🔍 Available Endpoints
 
 GET /health
 
@@ -76,7 +76,7 @@ GET /data/analytics
 
 POST /chat (LLM-powered)
 
-🧠 Business Logic
+## 🧠 Business Logic
 
 Automatic data type identification
 
@@ -88,7 +88,7 @@ Voice-context summarization
 
 Metadata enrichment
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 FastAPI
 

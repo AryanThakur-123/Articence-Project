@@ -1,4 +1,4 @@
-Universal Data Connector
+# Universal Data Connector
 
 A modular, LLM-integrated data access layer that unifies CRM, Support, and Analytics systems into a standardized API interface.
 
